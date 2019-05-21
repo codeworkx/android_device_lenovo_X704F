@@ -1,0 +1,2 @@
+add_lunch_combo omni_X704F-eng
+add_lunch_combo omni_X704F-userdebug
